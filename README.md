@@ -24,6 +24,6 @@ Technologies Used:
 
 ->Jupyter Notebook
 
-Conclusion
+Conclusion:
 
 This project showcases the use of a Decision Tree Classifier to build an interpretable and effective predictive model, following best practices in machine learning model development.
